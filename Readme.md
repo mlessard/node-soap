@@ -13,7 +13,7 @@ Features:
 Install with [npm](http://github.com/isaacs/npm):
 
 ```
-  npm install soap
+  npm install soap-attrib
 ```
 ## Module
 
